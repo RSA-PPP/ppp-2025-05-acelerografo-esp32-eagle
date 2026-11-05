@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-06-07T05:18:09Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "SMD_V1 v116"
+        },
+        "Owner": "Christian Loja <christian.lojac@ucuenca.edu.ec>",
+        "Size": {
+            "X": 107.3,
+            "Y": 84.65
+        }
+    }
+}

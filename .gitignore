@@ -1,0 +1,32 @@
+# ==============================================================================
+# Gitignore Oficial - Red Sísmica del Austro (RSA)
+# Proyecto: ppp-2025-05-acelerografo-esp32-eagle
+# ==============================================================================
+
+# Archivos del Sistema Operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+
+# Entornos de desarrollo y editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporales y respaldos de Autodesk EAGLE
+*.b#*
+*.s#*
+*.l#*
+*.bak
+*.cmp
+*.log
+*.erc~
+*.drc~
+
+# Python (si se usan scripts de procesamiento)
+__pycache__/
+*.py[cod]
+.venv/
+env/
