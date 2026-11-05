@@ -41,7 +41,7 @@ Este repositorio constituye el eslabón de hardware central dentro de la **trilo
 |        - Versión SMD: Placa compacta de alta densidad con componentes chip.   |
 |                                                                               |
 |  3. Migración a KiCad 10 y Estandarización PCBA (2026):                       |
-|     -> ppp-2026-08-acelerografo-eagle-kicad (Edgar Joel Suárez)               |
+|     -> ppp-2026-08-acelerografo-esp32-kicad (Edgar Joel Suárez)               |
 |        Reconstrucción a KiCad 10 a partir de las imágenes y BOMs de este      |
 |        repositorio, auditoría de pines hardware-firmware y manufactura JLCPCB.|
 |                                                                               |
@@ -57,7 +57,7 @@ Este repositorio constituye el eslabón de hardware central dentro de la **trilo
 > * Planos de ruteo Top/Bottom (`images_pcb_layers/`) y reportes de reglas de diseño (DRC).
 > * Vistas y renderizados 3D de ensamble (`images_pcb_3d_view/`).
 > 
-> Estos elementos sirvieron como especificación técnica directa para la posterior migración exitosa a KiCad 10 en [ppp-2026-08-acelerografo-eagle-kicad](https://github.com/RSA-PPP/ppp-2026-08-acelerografo-eagle-kicad).
+> Estos elementos sirvieron como especificación técnica directa para la posterior migración exitosa a KiCad 10 en [ppp-2026-08-acelerografo-esp32-kicad](https://github.com/RSA-PPP/ppp-2026-08-acelerografo-esp32-kicad).
 
 ---
 

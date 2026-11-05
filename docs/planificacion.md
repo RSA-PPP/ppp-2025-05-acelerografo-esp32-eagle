@@ -247,6 +247,6 @@ El trabajo se ejecutó en un período de **3 semanas intensivas** (del 10 de feb
    * Paquete completo de manufactura (Gerbers RS-274X, NC Drill, Centroid/Pick&Place y BOM industrial) alojado en la carpeta `/smd`.
 3. **Documentación Técnica Unificada:**
    * Archivo `README.md` exhaustivo detallando la memoria técnica, especificaciones de alimentación y notas para futuros desarrolladores.
-   * Enlace formal y trazabilidad con el proyecto de firmware ([ppp-2024-04-acelerografo-esp32-firmware](https://github.com/RSA-PPP/ppp-2024-04-acelerografo-esp32-firmware)) y la posterior migración a KiCad ([ppp-2026-08-acelerografo-eagle-kicad](https://github.com/RSA-PPP/ppp-2026-08-acelerografo-eagle-kicad)).
+   * Enlace formal y trazabilidad con el proyecto de firmware ([ppp-2024-04-acelerografo-esp32-firmware](https://github.com/RSA-PPP/ppp-2024-04-acelerografo-esp32-firmware)) y la posterior migración a KiCad ([ppp-2026-08-acelerografo-esp32-kicad](https://github.com/RSA-PPP/ppp-2026-08-acelerografo-esp32-kicad)).
 4. **Certificación Institucional de Prácticas:**
    * Formulario institucional F002 debidamente validado y suscrito por el tutor institucional de la RSA acreditando las 96 horas de desarrollo tecnológico.
